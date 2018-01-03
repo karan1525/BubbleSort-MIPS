@@ -1,8 +1,3 @@
-# Karan Bhargava
-# CS 147, 009679059
-# Professor Gomez
-# Homework # 5 -> MIPS
-
 # Assuming $a0 holds the base address of the array
 # Assuming $a1 holds int n
 
