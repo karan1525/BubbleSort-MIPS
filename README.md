@@ -1,2 +1,3 @@
 # BubbleSort-MIPS
-A repository containing BubbleSort in MIPS
+
+###### Repository for a version fo BubbleSort implementation in MIPS
